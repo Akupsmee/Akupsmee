@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akupsmee
+- 👋 Hi, I’m Ikenna 
 - 👀 I’m interested in Web Development, App developmnt and IT
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on differnt Projects relating to web development
