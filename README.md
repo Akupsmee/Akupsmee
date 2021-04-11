@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ikenna 
-- 👀 I’m interested in Web Development, App developmnt and IT
+- 👀 I’m interested in Web Development, App development and anything related to Tech
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on different Projects relating to web development
 - 📫 you can reach me on akupuomeikenna@gmail.com
