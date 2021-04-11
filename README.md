@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ikenna 
-- 👀 I’m interested in Web Development, App development,Power Platform etc.
+- 👀 I’m interested in Web Development, App development, Power Platform etc.
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on different Projects relating to web development
 - 📫 you can reach me on akupuomeikenna@gmail.com
