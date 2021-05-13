@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ikenna 
-- 👀 I’m interested in Web Development, App development, Power Platform etc.
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on different Projects relating to web development
-- 📫 you can reach me on akupuomeikenna@gmail.com
+- 👀 I’m interested in Web Development, App development, Power Platform etc
+- 💞️ Looking to collaborate on different Projects relating to web development
+- 📫 You can reach me via email : akupuomeikenna@gmail.com
 
 <!---
 Akupsmee/Akupsmee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
