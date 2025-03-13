@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikenna 
-- 👀 I’m interested in Web Development, App development, Power Platform etc
-- 💞️ Looking to collaborate on different Projects relating to web development
+- 👀 I’m interested in Software Development and cloud native Technologies.
+- 💞️ Experienced in AWS and JavaScript/nodejs landscape 
 - 📫 You can reach me via email : akupuomeikenna@gmail.com
 
 <!---
